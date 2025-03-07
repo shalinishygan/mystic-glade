@@ -4,7 +4,7 @@ Sleep is a fundamental biological process essential for maintaining optimal brai
 
 **The Sleep Cycle and Hormonal Regulation**
 
-![[Sleep Smarter_ How Sleep Affects Your Brain, Health, and Happiness - visual selection.png]]
+![](assets/images/sleep-cycle.png)
   
 Sleep consists of two primary types: rapid-eye movement (REM) sleep and non-REM sleep. Throughout the night, the brain cycles through these stages multiple times. Non-REM sleep includes stages of light to deep sleep, culminating in REM sleep, where dreaming often occurs. This cyclical pattern is crucial for restorative processes.
 
@@ -12,7 +12,7 @@ Hormones play a pivotal role in regulating sleep-wake cycles. Melatonin, produce
 
 **Impact of Insufficient Sleep on Brain Function and Health**
 
-![[Sleep Smarter_ How Sleep Affects Your Brain, Health, and Happiness - visual selection (1) 1.png]]
+![](assets/images/sleep-deprivation.png)
 
 
 Chronic sleep deprivation has been linked to a range of adverse health outcomes. Research indicates that lack of sleep increases the risk for obesity, heart disease, and infections. Throughout the night, your heart rate, breathing rate, and blood pressure rise and fall, a process that may be important for cardiovascular health. Your body releases hormones during sleep that help repair cells and control the body's use of energy. These hormone changes can affect your body weight.
@@ -39,7 +39,7 @@ These guidelines, provided by the National Sleep Foundation, serve as general re
 
 **Strategies for Effective Sleep**
 
-![[Sleep Smarter_ How Sleep Affects Your Brain, Health, and Happiness - visual selection (2).png]]
+![](assets/images/sleep-enhance.png)
 To enhance sleep quality:
 
 1. **Maintain a Consistent Sleep Schedule:** Go to bed and wake up at the same time daily, even on weekends, to regulate your body's internal clock.
