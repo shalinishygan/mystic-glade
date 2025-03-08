@@ -25,26 +25,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#928374",
-          tertiary: "#a89984",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f8f6f7",         // Light Background
+          lightgray: "#e4dcd9",    // Light Grayish-Brown
+          gray: "#b4a9a4",         // Medium Grayish-Brown
+          darkgray: "#615651",      // Very Dark Grayish-Brown
+          dark: "#332c29",           // Very Dark Taupe for Main Text
+          secondary: "#a56353",    // Deep Dusty Rose - accents
+          tertiary: "#c98f7d",     // Lighter - less important buttons/labels
+          highlight: "rgba(165, 99, 83, 0.15)",  // Dusty Rose highlight
+          textHighlight: "#87746788",  // Muted Brown text highlight
         },
         darkMode: {
-          light: "#373534",        // Darker background for better contrast  
-          lightgray: "#494745",    // Subtle contrast for UI elements  
-          gray: "#8d8d8d",         // Medium gray for secondary elements  
-          darkgray: "#d4d4d4",     // Well-balanced gray for subtext and secondary text  
-          dark: "#fcf2d8",         // Warm beige for main text (readable but not harsh)  
-          secondary: "#feb976",    // Muted golden-yellow for buttons and accents  
-          tertiary: "#bb8a3e",     // Darker gold for subheadings (less bright)  
-          highlight: "rgba(131, 165, 152, 0.3)",  // Soft teal-green for background highlights  
-          textHighlight: "#7b6e1b", // Muted teal-blue for text highlights (clear contrast with white text)  
+          light: "#292523",        // Dark background
+          lightgray: "#3d3735",    // Very Dark
+          gray: "#695e59",         // Medium - Dark Brown/Taupe
+          darkgray: "#a19590",      // Lighter for readability
+          dark: "#d6c7c0",          // Very Light Brown
+          secondary: "#d18873",    // Dusty Rose
+          tertiary: "#e7a995",     // Very Light
+          highlight: "rgba(209, 136, 115, 0.3)", // Dusty Rose Highlight
+          textHighlight: "#56413a", // Muted Brown text highlight
         }
       },
     },
