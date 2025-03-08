@@ -12,7 +12,7 @@ Hormones play a pivotal role in regulating sleep-wake cycles. Melatonin, produce
 
 **Impact of Insufficient Sleep on Brain Function and Health**
 
-![](../../assets/images/sleep-deprivation.png)
+![[sleep-deprivation.png]]
 
 Chronic sleep deprivation has been linked to a range of adverse health outcomes. Research indicates that lack of sleep increases the risk for obesity, heart disease, and infections. Throughout the night, your heart rate, breathing rate, and blood pressure rise and fall, a process that may be important for cardiovascular health. Your body releases hormones during sleep that help repair cells and control the body's use of energy. These hormone changes can affect your body weight.
 
@@ -38,7 +38,7 @@ These guidelines, provided by the National Sleep Foundation, serve as general re
 
 **Strategies for Effective Sleep**
 
-![](../../assets/images/sleep-enhance.png)
+![[sleep-enhance.png]]
 To enhance sleep quality:
 
 1. **Maintain a Consistent Sleep Schedule:** Go to bed and wake up at the same time daily, even on weekends, to regulate your body's internal clock.
