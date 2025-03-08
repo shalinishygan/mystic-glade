@@ -4,7 +4,7 @@ Sleep is a fundamental biological process essential for maintaining optimal brai
 
 **The Sleep Cycle and Hormonal Regulation**
 
-![](../../assets/images/sleep-cycle.png)
+![[sleep-cycle.png]]
 
 Sleep consists of two primary types: rapid-eye movement (REM) sleep and non-REM sleep. Throughout the night, the brain cycles through these stages multiple times. Non-REM sleep includes stages of light to deep sleep, culminating in REM sleep, where dreaming often occurs. This cyclical pattern is crucial for restorative processes.
 
