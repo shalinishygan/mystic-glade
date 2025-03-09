@@ -1,4 +1,4 @@
-Sleep Smarter - How Sleep Affects Your Brain, Health, and Happiness
+**Sleep Smarter - How Sleep Affects Your Brain, Health, and Happiness**
 
 Sleep is a fundamental biological process essential for maintaining optimal brain function and overall health. Understanding the sleep cycle, the role of hormones, and the consequences of insufficient sleep can help individuals prioritize rest and implement effective sleep strategies.
 
