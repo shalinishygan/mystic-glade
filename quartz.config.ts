@@ -25,27 +25,27 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f8f6f7",         // Light Background
-          lightgray: "#e4dcd9",    // Light Grayish-Brown
-          gray: "#b4a9a4",         // Medium Grayish-Brown
-          darkgray: "#615651",      // Very Dark Grayish-Brown
-          dark: "#332c29",           // Very Dark Taupe for Main Text
-          secondary: "#a56353",    // Deep Dusty Rose - accents
-          tertiary: "#c98f7d",     // Lighter - less important buttons/labels
-          highlight: "rgba(165, 99, 83, 0.15)",  // Dusty Rose highlight
-          textHighlight: "#87746788",  // Muted Brown text highlight
+          light: "#E6F4F1",        // Soft minty pastel background
+          lightgray: "#D0E7E2",    // Light muted seafoam for subtle elements
+          gray: "#86A788",         // Muted sage green for secondary text
+          darkgray: "#5E8B7E",     // Warm desaturated teal for contrast
+          dark: "#4DA1A9",         // Rich blue-green for headers and important elements
+          secondary: "#5FA69A",    // Vibrant sea green for buttons and links
+          tertiary: "#3B8D81",     // Deep teal-green for subheadings
+          highlight: "rgba(77, 161, 169, 0.2)",  // Transparent teal-green for background highlights
+          textHighlight: "#5FA69A88", // Soft ocean teal text highlight
         },
         darkMode: {
-          light: "#292523",        // Dark background
-          lightgray: "#3d3735",    // Very Dark
-          gray: "#695e59",         // Medium - Dark Brown/Taupe
-          darkgray: "#a19590",      // Lighter for readability
-          dark: "#d6c7c0",          // Very Light Brown
-          secondary: "#d18873",    // Dusty Rose
-          tertiary: "#e7a995",     // Very Light
-          highlight: "rgba(209, 136, 115, 0.3)", // Dusty Rose Highlight
-          textHighlight: "#56413a", // Muted Brown text highlight
-        }
+          light: "#1E2D2B",        // Dark muted teal background
+          lightgray: "#263B38",    // Soft desaturated green-gray for contrast
+          gray: "#4A6B64",         // Muted deep sage for secondary elements
+          darkgray: "#A3C2B8",     // Soft misty green for text
+          dark: "#C4E0D8",         // Gentle pastel teal for main text
+          secondary: "#7FA89A",    // Muted soft sage green for buttons and links
+          tertiary: "#5B877C",     // Deep teal-sage for headings
+          highlight: "rgba(70, 109, 83, 0.3)",  // Soft forest green for background highlights
+          textHighlight: "#97B6A9", // Gentle light seafoam green for text highlights
+        },                                                                      
       },
     },
   },
